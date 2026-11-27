@@ -7,7 +7,7 @@ Soy Kelvin César Del Castillo Torres, **Jokxer**. Construí un castillo costero
 | ¿Qué quieres hacer? | Empieza aquí |
 | --- | --- |
 | 🏰 Ver el mundo y sus edificios | [Recorrido visual](docs/castillo.md) |
-| 🧭 Entender cómo se desarrolló | [Historia y decisiones](docs/historia.md) |
+| 🧭 Ver fases, pendientes y próximo hito | [Plan Maestro](PLAN-MAESTRO.md) · [Historia y decisiones](docs/historia.md) |
 | 🎮 Instalar el cliente y jugar | [Guía para jugadores](docs/jugar.md) |
 | 🛠️ Montar un servidor propio | [Guía para anfitriones](docs/servidor.md) |
 | 📚 Consultar índices | [Documentación](docs/README.md) · [Capturas y planos](assets/README.md) |
